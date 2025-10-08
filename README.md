@@ -9,7 +9,7 @@
 -  I’m looking to collaborate on **Open-source security tools, detection rule repositories, and phishing simulation research**  
 -  I’m looking for help with **fine-tuning AI models for phishing & malware detection use cases**  
 -  Ask me about **SIEM (Wazuh), Incident Response, Phishing Simulations, and Custom Rule Creation**  
--  How to reach me: **[LinkedIn](www.linkedin.com/in/vinaya-dinesh-553a14285)** | **Email: vinayadinesh523@gmail.com**  
+-  How to reach me: **[LinkedIn]www.linkedin.com/in/vinaya-dinesh-553a14285** | **Email: vinayadinesh523@gmail.com**  
 -  Pronouns: **She/Her**  
 -  Fun fact: I enjoy building end-to-end labs to simulate real-world cyber attacks and automate detections!
   
