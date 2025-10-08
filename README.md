@@ -28,6 +28,7 @@
 **Red Team:** Kali Linux, Metasploit, Nmap, Social Engineering Toolkit  
 **AI/Automation:** Python, GPT Models  
 **Platforms:** Linux, Windows, Docker, MITRE ATT&CK  
+**Credly Badges:** https://www.credly.com/users/vinaya-dinesh/badges#credly
 
 ---
 
