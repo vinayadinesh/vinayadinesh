@@ -1,15 +1,15 @@
 #  Hi, I'm Vinaya Dinesh
 
- **Cybersecurity Enthusiast | Blue Teaming | Red Teaming | SIEM & AI Security Projects**
+ **Cybersecurity Enthusiast | Exploring | Blue Teaming | Red Teaming | SIEM & AI Security Projects**
 
----
+--- Im just a person exploring cybersecurity domain.
 
--  I’m currently working on **a Purple Team Cyber Lab** combining Wazuh SIEM, Elastic Stack, Windows & Kali VMs  
+-  I’m currently working on **a Purple Team Cyber Lab** combining Wazuh SIEM, Elastic Stack, Kali VMs  
 -  I’m currently learning **Threat Hunting, Detection Engineering, Malware Analysis, and Adversarial Machine Learning**  
 -  I’m looking to collaborate on **Open-source security tools, detection rule repositories, and phishing simulation research**  
 -  I’m looking for help with **fine-tuning AI models for phishing & malware detection use cases**  
 -  Ask me about **SIEM (Wazuh), Incident Response, Phishing Simulations, and Custom Rule Creation**  
--  How to reach me: **[LinkedIn]www.linkedin.com/in/vinaya-dinesh-553a14285** | **Email: vinayadinesh523@gmail.com**  
+-  How to reach me: **[LinkedIn]www.linkedin.com/in/vinaya-dinesh** | **Email: vinayadinesh523@gmail.com**  
 -  Pronouns: **She/Her**  
 -  Fun fact: I enjoy building end-to-end labs to simulate real-world cyber attacks and automate detections!
   
